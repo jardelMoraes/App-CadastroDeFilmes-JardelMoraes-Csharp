@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 10\\Documents\\GitHub\\App-CadastroDeSeries-JardelMoraes-Csharp\\CadastroDeSeries.csproj": {}
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\App-CadastroDeFIlmes-JardelMoraes-Csharp\\CadastroDeFilmes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 10\\Documents\\GitHub\\App-CadastroDeSeries-JardelMoraes-Csharp\\CadastroDeSeries.csproj": {
+    "C:\\Users\\Windows 10\\Documents\\GitHub\\App-CadastroDeFIlmes-JardelMoraes-Csharp\\CadastroDeFilmes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\GitHub\\App-CadastroDeSeries-JardelMoraes-Csharp\\CadastroDeSeries.csproj",
-        "projectName": "CadastroDeSeries",
-        "projectPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\App-CadastroDeSeries-JardelMoraes-Csharp\\CadastroDeSeries.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\GitHub\\App-CadastroDeFIlmes-JardelMoraes-Csharp\\CadastroDeFilmes.csproj",
+        "projectName": "CadastroDeFilmes",
+        "projectPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\App-CadastroDeFIlmes-JardelMoraes-Csharp\\CadastroDeFilmes.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\App-CadastroDeSeries-JardelMoraes-Csharp\\obj\\",
+        "outputPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\App-CadastroDeFIlmes-JardelMoraes-Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,13 @@
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeSeries.csprojAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeSeries.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeSeries.AssemblyInfo.cs
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeSeries.exe
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeSeries.deps.json
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeSeries.runtimeconfig.json
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeSeries.runtimeconfig.dev.json
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeSeries.dll
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeSeries.pdb
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeSeries.dll
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeSeries.pdb
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeSeries-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeSeries.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeFilmes.exe
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeFilmes.deps.json
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeFilmes.runtimeconfig.json
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeFilmes.runtimeconfig.dev.json
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeFilmes.dll
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\bin\Debug\netcoreapp3.1\CadastroDeFilmes.pdb
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeFilmes.csprojAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeFilmes.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeFilmes.AssemblyInfo.cs
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeFilmes.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeFilmes.dll
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeFilmes.pdb
+C:\Users\Windows 10\Documents\GitHub\App-CadastroDeFIlmes-JardelMoraes-Csharp\obj\Debug\netcoreapp3.1\CadastroDeFilmes.genruntimeconfig.cache
