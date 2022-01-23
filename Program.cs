@@ -101,7 +101,7 @@ namespace CadastroDeFilmes
 
 			if (lista.Count == 0)
 			{
-				Console.WriteLine("Nenhuma Filme cadastrado.");
+				Console.WriteLine("Nenhum Filme cadastrado.");
 				return;
 			}
 
@@ -151,7 +151,7 @@ namespace CadastroDeFilmes
 			Console.WriteLine();
 			Console.WriteLine("FLIX Filmes a seu dispor!!!");
 			Console.WriteLine("Informe a opção desejada:");
-
+			Console.WriteLine();
 			Console.WriteLine("1- Listar Filmes");
 			Console.WriteLine("2- Inserir novo Filme");
 			Console.WriteLine("3- Atualizar Filme");
